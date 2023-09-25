@@ -2,6 +2,10 @@
 
 This repository contains a prototype of a game that revolves around the concept of avoiding enemies while collecting items to enhance the player's capabilities.
 
+## Video
+
+![Video](./video.gif)
+
 ## Game Overview
 
 The primary gameplay mechanic of this prototype involves navigating the game environment to evade patrolling enemies and gather essential items. Combat within the game centers on launching missiles at enemies, triggering counterattacks from them.
