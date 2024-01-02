@@ -33,6 +33,6 @@ Follow these instructions to get the prototype up and running:
 
 1. **Clone the Repository**: Use the following command to clone the repository to your local machine:
 
-2. **Open the Project**: Navigate to the project directory and open it in your preferred game development environment (Unity, Unreal Engine, etc.).
+2. **Open the Project**: Navigate to the project directory and open it in your preferred game development environment (I used Unity).
 
 3. **Explore the Prototype**: Familiarize yourself with the gameplay mechanics, controls, and visual elements present in the prototype.
